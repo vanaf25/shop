@@ -1,0 +1,10 @@
+.item:hover{
+    transition: all .5s ease;
+    z-index: 3;
+}
+.item__description{
+    display: none !important;
+    width: 150px;
+    font-size: 12px;
+}
+
